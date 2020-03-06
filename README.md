@@ -1,1 +1,1 @@
-# django_chat
+# django_polls
